@@ -19,7 +19,7 @@ A few things that stand out:
 
 ## Page 2 — Ratings & Market Share
 
-![Ratings and Market Share](ratings.png)
+![Ratings and Market Share](Ratings.png)
 
 Breaks down performance by city — who dominates listings, how prices compare by room type, and how guests actually rated their stays.
 
