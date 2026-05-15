@@ -6,7 +6,7 @@ A Power BI dashboard exploring Airbnb listing trends, pricing, and guest ratings
 
 ## Page 1 — Overview
 
-![Dashboard Overview](screenshots/overview.png)
+![Dashboard Overview](overview.png)
 
 Covers the full listing lifecycle from 2008 to 2021, broken down by room type — Entire Place, Hotel Room, Private Room, and Shared Room. The timeline captures every major phase Airbnb went through, from early traction to the COVID-19 impact.
 
@@ -19,7 +19,7 @@ A few things that stand out:
 
 ## Page 2 — Ratings & Market Share
 
-![Ratings and Market Share](screenshots/ratings.png)
+![Ratings and Market Share](ratings.png)
 
 Breaks down performance by city — who dominates listings, how prices compare by room type, and how guests actually rated their stays.
 
